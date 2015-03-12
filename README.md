@@ -17,4 +17,4 @@ I have tried this on OSX and Windows 7 with Ruby 2.0
 This example may be helpful as you think about how you want to describe your model.  So far, the interesting developments are the code that describes the model.  These are just names now.  There aren't any rules in place.
 See [person](app/models/person.rb) and [item](app/models/item.rb) so far.
 
-Rails generates lots of files for you, so don't be too concerned yet with everything.  The majority of the work here is in the [model](app/model/) and [features](features/) folders.
+Rails generates lots of files for you, so don't be too concerned yet with everything.  The majority of the work here is in the [model](app/models/) and [features](features/) folders.
